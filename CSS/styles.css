@@ -1,0 +1,15 @@
+body {background-color: seashell}
+
+#calculator {text-align: center; 
+            padding-top: 25px;}
+
+.spacing {padding-bottom: 20px;}
+
+.boxes {width: 700px;
+        max-width:100%; 
+        height: 200px;
+        border-radius: 30px; 
+        background-color: white; 
+        border: thin solid lightgray;
+        font-size: 3.5vw ;
+        text-align: center;}
